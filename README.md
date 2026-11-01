@@ -3,8 +3,8 @@
 Play *Styx: Master of Shadows* (Unreal Engine 3, 64-bit) above its 62 fps cap **without ragdolls flying
 away**, and pick your own frame rate limit. A standalone `dinput8.dll`, no ReShade needed.
 
-Player downloads are on Nexus Mods. Companion mod:
-[styx-upscaler](https://github.com/MasterBerkay/styx-upscaler) – FSR 4 / DLSS for the game.
+Player downloads are on [Nexus Mods](https://www.nexusmods.com/styxmasterofshadows/mods/10). Companion mod:
+[Styx Upscaler](https://www.nexusmods.com/styxmasterofshadows/mods/9) ([source](https://github.com/MasterBerkay/styx-upscaler)) – FSR 4 / DLSS for the game.
 
 ## The bug
 
